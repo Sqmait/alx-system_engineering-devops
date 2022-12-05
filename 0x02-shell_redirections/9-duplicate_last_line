@@ -1,2 +1,2 @@
 #!/bin/bash
-cp tail -10 /iacto
+cp tail -10 iacto
